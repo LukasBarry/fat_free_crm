@@ -50,6 +50,7 @@ group :development do
     gem 'rb-inotify', require: false
     gem 'rb-fsevent', require: false
     gem 'rb-fchange', require: false
+    gem 'rb-readline', '~> 0.5.3'
   end
 end
 
